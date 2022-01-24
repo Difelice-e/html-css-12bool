@@ -1,1 +1,7 @@
 /* DEBUG  */
+.debug [class*="col"] {
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+}
