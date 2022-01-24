@@ -9,6 +9,11 @@
     margin: 0 auto;
 }
 
+.container-xl {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
 .container-fluid {
     max-width: 100%;
 }
@@ -106,6 +111,15 @@
 
 .flex-shrink-3 {
     flex-shrink: 3;
+}
+
+/* flex-wrap */
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-nowrap {
+    flex-wrap: nowrap;
 }
 
 /* DIMENSIONAMENTO COLONNE */

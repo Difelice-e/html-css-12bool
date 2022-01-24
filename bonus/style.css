@@ -1,0 +1,56 @@
+/* dimensionamento col */
+.col-3 {
+    aspect-ratio: 1/1;
+}
+
+
+/* colori */
+.v-h {
+    background-color: #2C1B2E;
+}
+
+.v-m {
+    background-color: #37205C;
+}
+
+.v-l {
+    background-color: #3F3491;
+}
+
+
+.b-h {
+    background-color: #457CD6;
+}
+
+.b-m {
+    background-color: #63B9FF;
+}
+
+.b-l {
+    background-color: #B8E5FF;
+}
+
+.white {
+    background-color: #F5FBFF;
+}
+
+.lingua {
+    background-color: #D6567A;
+}
+
+
+
+
+/* DEBUG  */
+.debug [class*="col"] {
+    border: 1px solid black;
+}
+
+.debug .container-xl {
+    border: 1px dashed blue;
+    padding: 50px 0;
+}
+
+.debug .row {
+    border: 1px solid red;
+}
