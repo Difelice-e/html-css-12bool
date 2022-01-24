@@ -1,3 +1,7 @@
+.container-xl {
+    background-color: #3F3491;
+}
+
 /* dimensionamento col */
 .col-3 {
     aspect-ratio: 1/1;
@@ -42,7 +46,7 @@
 
 
 /* DEBUG  */
-.debug [class*="col"] {
+/* .debug [class*="col"] {
     border: 1px solid black;
 }
 
@@ -53,4 +57,4 @@
 
 .debug .row {
     border: 1px solid red;
-}
+} */
